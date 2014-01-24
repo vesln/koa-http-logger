@@ -1,0 +1,19 @@
+{
+  "name": "koa-http-logger",
+  "description": "koa http request & response logger",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vesln/koa-http-log"
+  },
+  "author": "Veselin Todorov <hi@vesln.com>",
+  "homepage": "https://github.com/vesln/koa-http-logger",
+  "license": "MIT",
+  "main": "index.js",
+  "version": "0.0.0",
+  "keywords": [ "koa", "middleware", "logger", "log" ],
+  "dependencies": {
+    "passthrough-counter": "~0.0.1",
+    "humanize-number": "~0.0.1",
+    "bytes": "~0.2.1"
+  }
+}
