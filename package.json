@@ -9,7 +9,7 @@
   "homepage": "https://github.com/vesln/koa-http-logger",
   "license": "MIT",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "keywords": [ "koa", "middleware", "logger", "log" ],
   "dependencies": {
     "passthrough-counter": "~0.0.1",
