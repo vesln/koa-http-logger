@@ -7,7 +7,7 @@ with reporting mechanism.
 
 ```js
 var koa = require('koa');
-var logger = require('koa-http-log');
+var logger = require('koa-http-logger');
 var report = require('debug')('app:http');
 
 var app = koa();
