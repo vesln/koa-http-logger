@@ -3,7 +3,7 @@
   "description": "koa http request & response logger",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vesln/koa-http-log"
+    "url": "https://github.com/vesln/koa-http-logger"
   },
   "author": "Veselin Todorov <hi@vesln.com>",
   "homepage": "https://github.com/vesln/koa-http-logger",
